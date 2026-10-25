@@ -1,5 +1,5 @@
 # Ronaldo Chiche Surco
-### Data & Analytics Specialist | Portfolio Intelligence & BI
+### Especialista en Analítica de Datos | Inteligencia de Portafolio Crediticio · Microsoft Fabric · Power BI · Python
 
 Especialista en analítica de portafolio crediticio con 4+ años en banca,
 microfinanzas y telecomunicaciones. Combino dominio de negocio financiero
